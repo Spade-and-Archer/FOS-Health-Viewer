@@ -14,6 +14,8 @@ To use this script, first ensure you have a working copy of Python 3.6 or anothe
 
 
 Help:
+                
+                
                 FOS Stat Viewer:
 
                     Allows you to see stats regarding your vault that would otherwise be hidden
